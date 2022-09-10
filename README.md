@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sunilsm57
+- 👋 Hi, I’m Sunil s m
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me smsunil57@gmail.com
