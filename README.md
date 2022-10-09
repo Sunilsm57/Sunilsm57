@@ -1,9 +1,0 @@
-- 👋 Hi, I’m Sunil s m
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning MERN stack
-- 📫 How to reach me smsunil57@gmail.com
-
-<!---
-Sunilsm57/Sunilsm57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
